@@ -52,8 +52,8 @@ Lizenz: MIT (Friends of REDAXO)
 
 Referenz:
 
-(https://www.furore.ch/philosophie/)
+[https://www.furore.ch/philosophie/](https://www.furore.ch/philosophie/)
 
 ...
 
-[zur AddOn Übersicht](../)
+[zur AddOn Übersicht](/redaxo-addons/)
