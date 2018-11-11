@@ -56,4 +56,4 @@ Referenz:
 
 ...
 
-[zur AddOn Übersicht](/)
+[zur AddOn Übersicht](..)
