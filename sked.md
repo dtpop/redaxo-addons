@@ -10,6 +10,7 @@ Für eine einfache Terminliste mag uns das AddOn auf den ersten Blick zu komplex
 
 ### Sked Backend - Kalenderdarstellung
 
+<img src="images/sked-backend-1.JPG" alt="Sked Backend">
 
 Kalenderdarstellung im Backend von Sked. Ein Klick auf einen Termin zeigt den Eintrag in der Detailansicht. Kategorien können nach eigenen Vorstellungen angelegt und angepasst werden.
 
