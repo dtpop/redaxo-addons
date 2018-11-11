@@ -31,7 +31,7 @@ Websites QS-sicher verwalten. Wenn Inhalte einer Website relevant für das Quali
 
 [mehr lesen ...](history)
 
-### yrewrite - sprechende Urls
+### YRewrite - sprechende Urls
 
 Eine multidomainfähige Lösung für schöne Urls und Seo-Optimierung
 
