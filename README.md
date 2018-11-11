@@ -10,6 +10,42 @@ ist ein mächtiges AddOn, mit dem sich die meisten Aufgaben zur Terminverwaltung
 
 [mehr lesen ...](sked)
 
+### Developer - unentbehrlich für Entwickler
+
+Das AddOn legt Templates, Module und Aktionen in Files ab und synchronisiert Files und Datenbank in beide Richtungen
+
+[mehr lesen ...](developer)
+
+
+### Quick Navigation
+
+Das AddOn ermöglicht den schnellen Zugriff auf die ganze Struktur im Backend. Es sollte in keinem Projekt fehlen mit einem Umfang von mehr als zwei Seiten.
+
+[mehr lesen ...](quicknavigation)
+
+### Aufgaben
+
+### History
+
+Websites QS-sicher verwalten. Wenn Inhalte einer Website relevant für das Qualitätsmanagement sind, ist das History AddOn die richtige Wahl.
+
+[mehr lesen ...](history)
+
+### yrewrite - sprechende Urls
+
+Eine multidomainfähige Lösung für schöne Urls und Seo-Optimierung
+
+[mehr lesen ...](yrewrite)
+
+### YForm - der Datenbankmanager
+
+Mit YForm lassen sich Datentabellen anlegen und verwalten, Formulare aufbauen und verarbeiten, E-Mail Templates erstellen und einiges mehr.
+
+[mehr lesen ...](yform)
+
+
+
+
 You can use the [editor on GitHub](https://github.com/dtpop/redaxo-addons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
