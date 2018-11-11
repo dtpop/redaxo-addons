@@ -15,6 +15,8 @@ Kalenderdarstellung im Backend von Sked. Ein Klick auf einen Termin zeigt den Ei
 
 ### Modifiziertes Backend in Sked
 
+<img src="images/sked-modifiziertes-backend.JPG" alt="Modifiziertes Backend von Sked">
+
 Beispiel eines modifizierten Backends. "Orte" werden in diesem Falle nicht gebraucht. Auch mehrtägige Termine werden nicht benötigt. Veranstaltungskategorien werden in diesem Beispiel als Vorlagen verwendet, da es viele gleichartige Termine gibt, bei denen die Merkmale nicht einzeln verwaltet werden müssen.
 
 Bei den Individualisierungswünschen kommt einem der modulare Aufbau von Sked entgegen. Sked ist nämlich bereits so programmiert, dass eine Individualisierung weitestgehend möglich ist. Hierfür stehen beispielsweise eigene Config Dateien zur Verfügung, die bei einem Sked Update auch erhalten bleiben. In diesen Dateien lassen sich eigene Felder definieren. Die Definition alleine genügt! Sked legt die Felder dann beim nächsten Aufruf in der Tabelle an und stellt sie im Backend zur Verfügung. Manchmal reicht auch dies nicht für die eigenen Bedürfnisse. Dann lassen sich Sked Tabellen auch in yform Tabellen migrieren und entsprechend anpassen und erweitern.
