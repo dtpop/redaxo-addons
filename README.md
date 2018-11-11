@@ -10,6 +10,12 @@ ist ein mächtiges AddOn, mit dem sich die meisten Aufgaben zur Terminverwaltung
 
 [mehr lesen ...](sked)
 
+### MBlock - Elemente Gruppieren
+
+Mit MBlock lassen sich Module erstellen, die mehrere gleichartige Inhaltselemente enthalten. Ideal für Galerien, Teamseiten, Akkordeons usw.
+
+[mehr lesen ...](mblock)
+
 ### Developer - unentbehrlich für Entwickler
 
 Das AddOn legt Templates, Module und Aktionen in Files ab und synchronisiert Files und Datenbank in beide Richtungen
