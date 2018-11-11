@@ -1,5 +1,15 @@
 ## Hehe - was für Sterne ... ich mach doch hier nur einen Test
 
+Ich mache hier mal einen Test wie dieses Jekyll in GitHub integriert ist. Davon habe ich nämlich keine Ahnung. Und mein Kollege auch nicht.
+
+Ich nehme diese Test zum Anlass ein paar AddOns von REDAXO vorzustellen. Diese Aufstellung ist nicht vollständig aber sie kann dem Anfänger helfen sich durch den Dschungel der vielen AddOns von REDAXO zu finden. Das haben die, die REDAXO schon seit soundsoviel Jahren im Einsatz haben schon teilweise hinter sich. Möglicherweise findet aber auch ein alter Hase noch ein nützliches AddOn, welches ihm bisher verborgen blieb.
+
+### Sked Kalender
+
+ist ein mächtiges AddOn, mit dem sich die meisten Aufgaben zur Terminverwaltung und -anzeige umsetzen lassen.
+
+[mehr lesen ...]()
+
 You can use the [editor on GitHub](https://github.com/dtpop/redaxo-addons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
