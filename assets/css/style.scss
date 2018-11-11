@@ -3,3 +3,7 @@
 
 @import "{{ site.theme }}";
 
+h2 + p {
+  font-size: 120%;
+}
+
