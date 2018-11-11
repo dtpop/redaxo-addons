@@ -8,7 +8,7 @@ Ich nehme diese Test zum Anlass ein paar AddOns von REDAXO vorzustellen. Diese A
 
 ist ein mächtiges AddOn, mit dem sich die meisten Aufgaben zur Terminverwaltung und -anzeige umsetzen lassen.
 
-[mehr lesen ...]()
+[mehr lesen ...](sked)
 
 You can use the [editor on GitHub](https://github.com/dtpop/redaxo-addons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
